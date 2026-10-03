@@ -1,0 +1,28 @@
+#include "src/resource.h"
+
+IDI_APP       ICON   "assets/app.ico"
+IDR_BALANCED  RCDATA "assets/balanced.png"
+IDR_HIGH      RCDATA "assets/high.png"
+IDR_TRAY_BAL  RCDATA "assets/tray_balanced.png"
+IDR_TRAY_HIGH RCDATA "assets/tray_high.png"
+
+1 24 "boost11.manifest"
+
+1 VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040704B0"
+    BEGIN
+      VALUE "ProductName", "Boost11"
+      VALUE "FileDescription", "Boost11"
+      VALUE "FileVersion", "1.0.0.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x0407, 1200
+  END
+END

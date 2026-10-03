@@ -1,0 +1,21 @@
+{
+  "language": "Deutsch",
+  "subtitle": "Wähle, wie du den Energiemodus umschalten möchtest.",
+  "tray_title": "Tray-Icon",
+  "tray_desc": "Ein Klick auf das Symbol im Infobereich öffnet ein kleines Menü.",
+  "shortcut_title": "Desktop-Verknüpfung",
+  "shortcut_desc": "Ein Doppelklick auf die Verknüpfung wechselt den Modus.",
+  "autostart": "Mit Windows starten",
+  "btn_done": "Fertig",
+  "btn_cancel": "Abbrechen",
+  "mode_balanced": "Ausbalanciert",
+  "mode_high": "Höchstleistung",
+  "popup_active": "Aktiv",
+  "popup_settings": "Einstellungen",
+  "popup_quit": "Beenden",
+  "tray_other": "Anderer Plan",
+  "info_ok": "Energiepläne erkannt: Ausbalanciert, Höchstleistung.",
+  "info_created": "„Höchstleistung“ wurde neu angelegt und erkannt.",
+  "info_missing": "Achtung: „Höchstleistung“ wurde nicht gefunden.",
+  "err_shortcut": "Die Verknüpfung konnte nicht erstellt werden."
+}
