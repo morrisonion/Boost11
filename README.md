@@ -46,7 +46,7 @@ Settings are stored in `%APPDATA%\Boost11\config.ini`.
 No Visual Studio required – any MinGW-w64 toolchain works (e.g. [w64devkit](https://github.com/skeeto/w64devkit) or [WinLibs](https://winlibs.com/)).
 
 ```bat
-git clone https://github.com/YOUR_USERNAME/Boost11.git
+git clone https://github.com/morrisonion/Boost11.git
 cd Boost11
 build.bat
 ```
