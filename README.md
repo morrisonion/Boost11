@@ -17,8 +17,9 @@ A tiny, dependency-free power mode switcher written in C++.
 ---
 
 ## Screenshots
-<img src="screenshots/menu.png" alt="Boost11 settings menu" width="128" height="128">
-<img src="screenshots/tray.png" alt="Boost11 tray menu" width="128" height="128">
+<img src="screenshots/menu.png" alt="Boost11 settings menu" width="512" height="512" style="border-radius: 12px;">
+<img src="screenshots/tray.png" alt="Boost11 tray menu" width="256" height="256" style="border-radius: 12px;">
+
 
 ## Requirements
 
