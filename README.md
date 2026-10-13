@@ -14,6 +14,12 @@ A tiny, dependency-free power mode switcher written in C++.
 
 </div>
 
+### Translations
+The translation .json files are located in the i18n folder
+Translations:
+- croatian translation by [Dada1337](https://www.youtube.com/@Dada1337)
+- german translation by me(morrisonion)
+
 ---
 
 ## Screenshots
