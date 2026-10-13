@@ -1,0 +1,21 @@
+{
+  "language": "Hrvatski",
+  "subtitle": "Odaberite kako želite mijenjati način rada napajanja.",
+  "tray_title": "Ikona u sustavnoj traci",
+  "tray_desc": "Klik na ikonu u sustavnoj traci otvara mali izbornik.",
+  "shortcut_title": "Prečac na radnoj površini",
+  "shortcut_desc": "Dvostruki klik na prečac mijenja način rada.",
+  "autostart": "Pokreni s Windowsima",
+  "btn_done": "Gotov",
+  "btn_cancel": "Odustani",
+  "mode_balanced": "Uravnoteženo",
+  "mode_high": "Visoka učinkovitost",
+  "popup_active": "Aktivno",
+  "popup_settings": "Postavke",
+  "popup_quit": "Izađi",
+  "tray_other": "Drugi plan",
+  "info_ok": "Prepoznati planovi napajanja: Uravnoteženo, Visoka učinkovitost.",
+  "info_created": "„Visoka učinkovitost“ je iznova stvorena i prepoznata.",
+  "info_missing": "Upozorenje: „Visoka učinkovitost“ nije pronađena.",
+  "err_shortcut": "Nije moguće izraditi prečac."
+}
